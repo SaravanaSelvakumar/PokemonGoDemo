@@ -7,17 +7,13 @@ PokemonGoDemo is a Swift project that lets users explore a list of Pokémon, vie
 ## 📸 Screenshot
 
 
-<!-- <p align="center"> -->
   <img src="https://github.com/user-attachments/assets/0b8ca74b-2ead-4a67-bdfd-99aa81c6cf87" alt="Screenshot 1" width="400"/>
-<!-- </p> -->
-
-<!-- <p align="center"> -->
+  
   <img src="https://github.com/user-attachments/assets/84e6882c-b870-4c02-a14f-2b4f22f5f307" alt="Screenshot 2" width="400"/>
-<!-- </p> -->
-
-<!-- <p align="center"> -->
+  
   <img src="https://github.com/user-attachments/assets/9851b51d-156d-40c3-ae37-17b7cbf736f4" alt="Screenshot 3" width="400"/>
-<!-- </p> -->
+
+ <img src="https://github.com/user-attachments/assets/fd21f924-37be-4ea7-a400-21919e3b551f" alt="Screenshot 4" width="400" />
 
 
 ## 🔹 Features
